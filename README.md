@@ -1,11 +1,6 @@
 # Apuntes-web
 Etiquetas con atributos HTML/CSS/JS
 
-# Apuntes rápidos de HTML, CSS y JavaScript
-## 📎 Descargas
-- [Apunte HTML](./apuntes/atributos_html.pdf)
-- [Apunte CSS](./apuntes/atributos_css.pdf)
-- [Apunte JS](./apuntes/atributos_js.pdf)
 
 # 📘 Guía rápida de HTML, CSS y JavaScript con ejemplos
 
