@@ -10,7 +10,7 @@ Etiquetas con atributos HTML/CSS/JS
 
 [Abrir apunte de git](./apunte_git_basico.md)
 
-
+[Abrir apunte clase 1 M1](./Apunte clase 1 M1 -js.md)
 
 
 # 📘 Guía rápida de HTML, CSS y JavaScript con ejemplos
