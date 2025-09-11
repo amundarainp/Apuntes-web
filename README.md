@@ -1,6 +1,10 @@
 # Apuntes-web
 Etiquetas con atributos HTML/CSS/JS
 
+[Abrir atributos de css](./atributos_css.pdf)
+[Abrir atributos de html](./atributos_html.pdf)
+[Abrir atributos de js](./atributos_js.pdf)
+
 
 # 📘 Guía rápida de HTML, CSS y JavaScript con ejemplos
 
